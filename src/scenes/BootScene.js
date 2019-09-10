@@ -17,6 +17,18 @@ class BootScene extends Scene {
 	}
 
 	preload() {
+		var progress = this.add.graphics();
+
+		this.load.on("progress", function(value) {
+			progress.clear();
+			progress.fillStyle(0xffffff, 1);
+			progress.fillRect(0, 270, 1200 * value, 60);
+		});
+
+		this.load.on("complete", function() {
+			progress.destroy();
+		});
+
 		this.load.audio("ambient", [ambientspaceOGG, ambientspaceMP3]);
 		this.load.image("bg", logoImg);
 		this.load.image("audio", audio);
