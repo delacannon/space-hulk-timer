@@ -1,0 +1,24 @@
+<?xml version='1.0'?>
+   <font>
+       <info aa='1' size='232' smooth='1' stretchH='100' bold='0' padding='0,0,0,0' spacing='0,0' charset='' italic='0' unicode='0' face='Bulletproof Deco BB'/>
+       <common scaleW='512' packed='0' pages='1' lineHeight='232' scaleH='512' base='174'/>
+       <pages>
+            <page id='0' file='hulkfont.png'/>
+       </pages>
+        <chars count='12'>
+            <char xadvance='63' x='2' chnl='0' yoffset='174' y='482' xoffset='0' id='32' page='0' height='0' width='0'/>
+            <char xadvance='159' x='144' chnl='0' yoffset='18' y='322' xoffset='11' id='48' page='0' height='158' width='140'/>
+            <char xadvance='85' x='428' chnl='0' yoffset='18' y='2' xoffset='6' id='49' page='0' height='158' width='70'/>
+            <char xadvance='157' x='286' chnl='0' yoffset='18' y='322' xoffset='11' id='50' page='0' height='158' width='138'/>
+            <char xadvance='158' x='144' chnl='0' yoffset='18' y='162' xoffset='12' id='51' page='0' height='158' width='140'/>
+            <char xadvance='157' x='286' chnl='0' yoffset='18' y='2' xoffset='10' id='52' page='0' height='158' width='140'/>
+            <char xadvance='162' x='144' chnl='0' yoffset='18' y='2' xoffset='13' id='53' page='0' height='158' width='140'/>
+            <char xadvance='162' x='2' chnl='0' yoffset='18' y='322' xoffset='13' id='54' page='0' height='158' width='140'/>
+            <char xadvance='150' x='286' chnl='0' yoffset='18' y='162' xoffset='8' id='55' page='0' height='158' width='138'/>
+            <char xadvance='159' x='2' chnl='0' yoffset='18' y='162' xoffset='13' id='56' page='0' height='158' width='140'/>
+            <char xadvance='159' x='2' chnl='0' yoffset='18' y='2' xoffset='11' id='57' page='0' height='158' width='140'/>
+            <char xadvance='72' x='426' chnl='0' yoffset='73' y='162' xoffset='12' id='58' page='0' height='102' width='52'/>
+       </chars>
+       <kernings count="0">
+       </kernings>
+   </font>
